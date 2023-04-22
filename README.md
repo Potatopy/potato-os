@@ -6,7 +6,7 @@ An OS made by h3lped that is totally hot garbage
 
 - Just says hello world!
 
-## Setup (Without WSL) -- Prefered
+## Setup (Using Docker for Windows)
 
 1. First get the Docker CLI if you haven't done so already because it is required for this
 
@@ -18,7 +18,7 @@ An OS made by h3lped that is totally hot garbage
 
 And Thats it you have setup an environment to make an .img file
 
-## Make the file
+## Build the Source
 
 1. Open the terminal
 
