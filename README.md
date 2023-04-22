@@ -2,9 +2,11 @@
 
 An OS made by h3lped that is totally hot garbage
 
+**This Project is on hold since im on a windows machine**
+
 ## Features
 
-- Just says hello world!
+- Just says Hello World!
 
 ## Setup (Using Docker for Windows)
 

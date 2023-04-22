@@ -1,0 +1,7 @@
+megs: 128
+romimage: file=/usr/share/bochs/BIOS-bochs-latest, address0xfffe0000
+vgaromimage: file=/usr/share/cohs/VGABIOS-lgpl-latest
+floppya: 1_44=build/main_floppy.img, status=insterted
+boot: floppy
+mouse: enabled=0
+display_library: sdl2, options="gui_debug"
