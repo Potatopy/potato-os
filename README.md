@@ -26,8 +26,10 @@ And Thats it you have setup an environment to make an .img file
 
 2. And simply run `make`
 
-3. Open the `build` folder and you will see the .img file
+3. And then run `chmod +x cli/boot.sh` + `./cli/boot.sh`
 
-## License
+## License + Credits
 
 [MIT](https://opensource.org/license/mit/)
+
+[The guy who made this](https://github.com/nanobyte-dev/nanobyte_os/blob/Part3/Makefile)
