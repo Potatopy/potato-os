@@ -2,7 +2,7 @@
 
 An OS made by h3lped that is totally hot garbage
 
-**This Project is on hold since im on a windows machine**
+~~**This Project is on hold since im on a windows machine**~~ **I'm back ;)**
 
 ## Features
 
