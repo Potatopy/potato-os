@@ -18,15 +18,21 @@ An OS made by h3lped that is totally hot garbage
 
 4. Once it's built run `docker run --rm -it -v "%cd%":/root/env (name of container)`
 
-And Thats it you have setup an environment to make an .img file
+And Thats it you have setup an environment to make an .img file! You can now follow the instructions below!
 
 ## Build the Source
 
-1. Open the terminal
+1. Open the terminal/command prompt
 
-2. And simply run `make`
+2. Run `git clone https://github.com/Potatopy/potato-os.git`
 
-3. And then run `chmod +x cli/boot.sh` + `./cli/boot.sh`
+3. Next Run `cd potato-os`
+
+4. Install all the dependancies by running `chmod +x cli/install.sh` + `./cli/install.sh`
+
+5. Run `make` in the terminal that has the source files
+
+. And then run `chmod +x cli/boot.sh` + `./cli/boot.sh`
 
 ## License + Credits
 
