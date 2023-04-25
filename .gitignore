@@ -1,6 +1,7 @@
 # Build / Debug Folder/Files
 build
 test.img 
+*.err
 
 # Misc
 notes.txt
