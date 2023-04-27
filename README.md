@@ -32,7 +32,7 @@ And Thats it you have setup an environment to make an .img file! You can now fol
 
 5. Run `make` in the terminal that has the source files
 
-. And then run `chmod +x cli/boot.sh` + `./cli/boot.sh`
+6. And then run `chmod +x cli/boot.sh` + `./cli/boot.sh`
 
 ## NOTE
 
