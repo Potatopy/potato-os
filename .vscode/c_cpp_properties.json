@@ -3,7 +3,9 @@
         {
             "name": "Watcom",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/usr/include/linux",
+                "/usr/include/c++/11/tr1"
             ],
             "defines": [
                 "_cdecl="

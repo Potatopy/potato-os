@@ -1,6 +1,6 @@
-# Build / Debug Folder/Files
+# Build / Debug stuff
 build
-test.img 
+*.img
 *.err
 
 # Misc

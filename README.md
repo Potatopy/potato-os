@@ -34,8 +34,12 @@ And Thats it you have setup an environment to make an .img file! You can now fol
 
 . And then run `chmod +x cli/boot.sh` + `./cli/boot.sh`
 
+## NOTE
+
+Reminder that if you see some errors in any of the codes. It ok! I have tested the compiled part and it work seamlessly!
+
 ## License + Credits
 
 [MIT](https://opensource.org/license/mit/)
 
-[The guy who made this](https://github.com/nanobyte-dev/nanobyte_os/blob/Part3/Makefile)
+[The guy who made this](https://github.com/nanobyte-dev/nanobyte_os)
