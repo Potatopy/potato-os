@@ -2,6 +2,7 @@
 build
 *.img
 *.err
+test
 
 # Misc
 notes.txt
